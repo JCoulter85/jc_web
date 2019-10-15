@@ -59,9 +59,10 @@ import { FeedbackService } from './services/feedback.service';
     ContactComponent,
     LoginComponent,
     HighlightDirective,
-
-
+    
   ],
+
+
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -84,7 +85,7 @@ import { FeedbackService } from './services/feedback.service';
     MatSliderModule,
     HttpClientModule,
     HttpModule,
-
+    
   ],
 
   providers: [
