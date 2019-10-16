@@ -7,7 +7,6 @@ export class Dish {
     category: string;
     featured: boolean;
     label: string;
-    price: string;
     description: string;
     comments: Comment[];
     

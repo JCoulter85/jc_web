@@ -3,12 +3,11 @@ import { Promotion } from './promotion';
 export const PROMOTIONS: Promotion[] = [
     {
         id: '0',
-        name: 'Weekend Grand Buffet',
-        image: '/assets/images/buffet.png',
+        name: 'Raspberry Pi Python ULV',
+        image: '/assets/images/rp-icon.png',
         label: 'New',
-        price: '19.99',
         featured: true,
         // tslint:disable-next-line:max-line-length
-        description: 'Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person'
+        description: 'A fun project that allows the user to control their very own tank! Features include but not limited too: variable motor contorl, live IR video feed, capturing images with automated email to user, PlayStation 3 contoller input...'
     }
 ];

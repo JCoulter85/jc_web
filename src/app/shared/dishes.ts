@@ -10,7 +10,6 @@ export const DISHES: Dish[] = [
         category: 'Web Application',
         featured: true,
         label: 'Single Page App',
-        price: '',
         // tslint:disable-next-line:max-line-length
         description: 'This web application was designed for a moch restaurant. I chose to building the foundation with the Angular framework for performance and design purposes. There are several features which include:  interactive menu, a rating system, a detailed contact page, jqury server, and much more!',
         comments: [
@@ -53,7 +52,6 @@ export const DISHES: Dish[] = [
         category: 'Personal Project',
         featured: false,
         label: '',
-        price: '',
         description: 'A fun project that allows the user to control their very own tank! Features include but not limited too: variable motor contorl, live IR video feed, capturing images with automated email to user, PlayStation 3 contoller input...',
         comments: [
             {
@@ -95,7 +93,6 @@ export const DISHES: Dish[] = [
         category: 'Contributions',
         featured: false,
         label: 'New',
-        price: '',
         description: 'SpeedUpAmerica aims to provide on the ground truth about the Internet in America. I contribute to this program in hopes to help give the community some truth behind their internet speeds.',
         comments: [
             {
@@ -137,7 +134,6 @@ export const DISHES: Dish[] = [
         category: 'dessert',
         featured: false,
         label: '',
-        price: '',
         description: 'I will have to place a 4th work example within this card. Think of something and it will work awesomely...',
         comments: [
             {
