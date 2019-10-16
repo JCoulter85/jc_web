@@ -132,13 +132,13 @@ export const DISHES: Dish[] = [
     },
     {
         id: '3',
-        name: 'ElaiCheese Cake',
-        image: '/assets/images/elaicheesecake.png',
+        name: '4th Example',
+        image: '/assets/images/thumb-icon.png',
         category: 'dessert',
         featured: false,
         label: '',
-        price: '2.99',
-        description: 'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        price: '',
+        description: 'I will have to place a 4th work example within this card. Think of something and it will work awesomely...',
         comments: [
             {
                 rating: 5,
