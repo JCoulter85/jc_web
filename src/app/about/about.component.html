@@ -2,7 +2,7 @@
 
   <div fxFlex>
     <div>
-      <h3>About Us</h3>
+      <h3>About Me</h3>
       <hr>
     </div>
   </div>
@@ -10,7 +10,7 @@
   <div fxFlex>
     <div fxLayout="column" fxLayout.gt-sm="row">
       <div fxFlex="70">
-        <h2>Our History</h2>
+        <h2>My History</h2>
         <p>Started in 2010, Ristorante con Fusion quickly established itself as a culinary icon par excellence in Hong
           Kong. With its unique brand of world fusion cuisine that can be found nowhere else, it enjoys patronage from
           the A-list clientele in Hong Kong. Featuring four of the best three-star Michelin chefs in the world, you
@@ -22,19 +22,19 @@
         <mat-card>
           <mat-card-header>
             <mat-card-title>
-              <h2>Facts At a Glance</h2>
+              <h2>Facts At A Glance</h2>
             </mat-card-title>
           </mat-card-header>
           <mat-card-content>
             <dl>
-              <dt>Started</dt>
-              <dd>3 Feb. 2013</dd>
-              <dt>Major Stake Holder</dt>
-              <dd>HK Fine Foods Inc.</dd>
-              <dt>Last Year's Turnover</dt>
-              <dd>$1,250,375</dd>
-              <dt>Employees</dt>
-              <dd>40</dd>
+              <dt>Started Full Stack Web Development</dt>
+              <dd>2 Feb. 2017</dd>
+              <dt>Degree's</dt>
+              <dd>Bachelor of Science, Oregon Transfer</dd>
+              <dt>Specialties</dt>
+              <dd>Full Stack Dev, Marketing, Digital Arts</dd>
+              <dt>Current Works</dt>
+              <dd>Contributor for Speed Up America</dd>
             </dl>
           </mat-card-content>
         </mat-card>
@@ -45,11 +45,9 @@
   <div fxFlex>
     <mat-card>
       <blockquote>
-        <h3>You better cut the pizza in four pieces because
-          I'm not hungry enough to eat six.</h3>
-        <footer>-- Yogi Berra,
-          <cite>The Wit and Wisdom of Yogi Berra,
-            P. Pepe, Diversion Books, 2014</cite>
+        <h3>Major influences in my life.</h3>
+        <footer>-- Jeff Coulter,
+          <cite>Life is about balance. Find that happy medium in life and try to stay there.</cite>
         </footer>
       </blockquote>
     </mat-card>
@@ -57,7 +55,7 @@
 
 
   <div fxFlex>
-    <h2>Corporate Leadership</h2>
+    <h2>Personal Snippet</h2>
     <mat-list *ngIf="leaders" [@expand]>
       <mat-list-item *ngFor="let leader of leaders">
         <img mat-list-avatar src={{leader.image}} alt={{leader}}>

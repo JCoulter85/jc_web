@@ -5,14 +5,14 @@ export const DISHES: Dish[] = [
 
     {
         id: '0',
-        name: 'Uthappizza',
+        name: 'Angular Application',
         image: '/assets/images/uthappizza.png',
-        category: 'mains',
+        category: 'Web Application',
         featured: true,
-        label: 'Hot',
-        price: '4.99',
+        label: 'Single Page App',
+        price: '',
         // tslint:disable-next-line:max-line-length
-        description: 'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.',
+        description: 'This web application was designed for a moch restaurant. I chose to building the foundation with the Angular framework for performance and design purposes. There are several features which include:  interactive menu, a rating system, a detailed contact page, jqury server, and much more!',
         comments: [
             {
                 rating: 5,
@@ -48,13 +48,13 @@ export const DISHES: Dish[] = [
     },
     {
         id: '1',
-        name: 'Zucchipakoda',
-        image: '/assets/images/zucchipakoda.png',
-        category: 'appetizer',
+        name: 'Raspberry Pi ULV',
+        image: '/assets/images/ulv-icon.jpg',
+        category: 'Personal Project',
         featured: false,
         label: '',
-        price: '1.99',
-        description: 'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce',
+        price: '',
+        description: 'A fun project that allows the user to control their very own tank! Features include but not limited too: variable motor contorl, live IR video feed, capturing images with automated email to user, PlayStation 3 contoller input...',
         comments: [
             {
                 rating: 5,
@@ -90,13 +90,13 @@ export const DISHES: Dish[] = [
     },
     {
         id: '2',
-        name: 'Vadonut',
-        image: '/assets/images/vadonut.png',
-        category: 'appetizer',
+        name: 'Speed Up America Contributions',
+        image: '/assets/images/sua-icon.png',
+        category: 'Contributions',
         featured: false,
         label: 'New',
-        price: '1.99',
-        description: 'A quintessential ConFusion experience, is it a vada or is it a donut?',
+        price: '',
+        description: 'SpeedUpAmerica aims to provide on the ground truth about the Internet in America. I contribute to this program in hopes to help give the community some truth behind their internet speeds.',
         comments: [
             {
                 rating: 5,
