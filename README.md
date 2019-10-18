@@ -54,7 +54,7 @@ In your CMD please visit the `JC_Web` folder and run this command in the CMD:
 
 Navigate to http://localhost:4200/ The app will automatically reload if you change any of the source files.
 
-## Deploy the server
+## Running json-server
 
 - Open a new CMD window & visit `json-server` folder (which should be in a differnet location that the `JC_Web` folder) on your local machine in your CMD:
 
