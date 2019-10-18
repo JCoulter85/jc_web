@@ -40,7 +40,7 @@ You can check that node.js & npm have been installed by checking their versions 
 
 - $ `npm -v`
 
-After node.js & npm are installed on your machine you will need to run these commands in your CMD:
+Next will will have to install Angular & all of the Agular items. Please run these commands in your CMD:
 
 - $ `Angular CLI v6.2.1`
 
