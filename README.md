@@ -28,7 +28,7 @@ After you clone both the web application and the server you will need to install
 
 [Node.js & NPM link here](https://nodejs.org)
 
-You can check that node.js & npm have been installed by checking their versions by running these commands in your CMD:
+You can check that `node.js` & `npm` have been installed by checking their versions by running these commands in your CMD:
 
 - $ `node -v`
 
