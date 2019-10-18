@@ -56,7 +56,7 @@ Navigate to http://localhost:4200/ The app will automatically reload if you chan
 
 ## Running json-server
 
-- Open a new CMD window & visit `json-server` folder (which should be in a differnet location that the `JC_Web` folder) on your local machine in your CMD:
+- Open a new CMD window & visit `json-server` folder (which should be in a differnet location then the `JC_Web` folder) on your local machine in your CMD:
 
 Run:
 
