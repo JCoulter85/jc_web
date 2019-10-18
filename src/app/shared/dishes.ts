@@ -52,7 +52,7 @@ export const DISHES: Dish[] = [
     featured: false,
     label: "",
     description:
-      "A fun project that allows the user to control their very own tank! Features include but not limited too: variable motor contorl, live IR video feed, capturing images with automated email to user, PlayStation 3 contoller input...",
+      "A fun project that allows the user to control their very own tank! Features include but not limited too: variable motor contorl, live IR video feed, capturing images with automated email to user, PlayStation 3 contoller input, and much more!!!",
     comments: [
       {
         rating: 5,
