@@ -46,7 +46,7 @@ Next will will have to install Angular & all of the Agular items. Please run the
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
-## Running jc_Web
+## Running jc_web
 
 Running web application in the `JC_Web` folder:
 
