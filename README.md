@@ -8,7 +8,7 @@ To get started there are a few things that you will need in order for you to bui
 
 Please go to github.com and install git as well as make your own github account:
 
-http://github.com/
+[Git](http://github.com/)
 
 After installing git:
 
@@ -34,7 +34,7 @@ After you clone both the web application and the server you will need to install
 
 Install Node.js and NPM to your local machine by visiting the website provided:
 
-(https://nodejs.org)
+[Node.js & NPM](https://nodejs.org)
 
 You can check that node.js & npm have been installed by checking their versions by running these commands in your CMD:
 
@@ -62,13 +62,13 @@ Running web application:
 
 - $ `ng serve`
 
-Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to http://localhost:4200/ The app will automatically reload if you change any of the source files.
 
 ## Deploy the server
 
 - Locate and visit the servers location on your local machine in your CMD
 
-- Run:
+Run:
 
 - $ `json-server --watch db.json -d 2000`
 
@@ -86,13 +86,24 @@ This will generate a new component. You can also use
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run:
 
+- $ `ng build`
+
+This will build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run:
+
+- $ `ng e2e`
+
+This will execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To get more help on the Angular CLI use:
+
+- $ `ng help`
+
+Or you can visit the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
