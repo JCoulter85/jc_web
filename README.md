@@ -50,7 +50,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running jc_Web
 
-Running web application:
+Running web application in the `JC_Web` folder:
 
 - $ `ng serve`
 
@@ -58,7 +58,7 @@ Navigate to http://localhost:4200/ The app will automatically reload if you chan
 
 ## Deploy the server
 
-- Locate and visit the servers location on your local machine in your CMD
+- Open a new CMD & Locate `json-server` folder on your local machine in your CMD
 
 Run:
 
