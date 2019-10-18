@@ -1,6 +1,6 @@
 # James Coulter
 
-## Welcome
+## Welcome to the jc_web README
 
 Welcome to my personal website.
 
@@ -8,7 +8,7 @@ To get started there are a few things that you will need in order for you to bui
 
 Please go to github.com and install git as well as make your own github account:
 
-[Git](http://github.com/)
+[Github link here](http://github.com/)
 
 After installing git:
 
@@ -34,7 +34,7 @@ After you clone both the web application and the server you will need to install
 
 Install Node.js and NPM to your local machine by visiting the website provided:
 
-[Node.js & NPM](https://nodejs.org)
+[Node.js & NPM link here](https://nodejs.org)
 
 You can check that node.js & npm have been installed by checking their versions by running these commands in your CMD:
 
@@ -56,7 +56,7 @@ After node.js & npm are installed on your machine you will need to run these com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
-## Running JC-Web
+## Running jc_Web
 
 Running web application:
 
