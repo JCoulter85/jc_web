@@ -18,7 +18,7 @@ This will pull all the files needed for the web application.
 
 From here you will need to also clone the `json-server` in a separate folder location. Here is the command to clone the server:
 
-`git clone (https://github.com/JCoulter85/jc_web_server.git)`
+- `git clone (https://github.com/JCoulter85/jc_web_server.git)`
 
 ## Installing what you will need to run both the server & the web application
 
