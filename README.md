@@ -12,8 +12,6 @@ After installing git:
 
 Please find a specific folder you would like to place the web application and run these following commands within the CMD:
 
-- $ `git init`
-
 - $ `git clone (https://github.com/JCoulter85/jc_web.git)`
 
 This will pull all the files needed for the web application.
