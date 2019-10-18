@@ -24,13 +24,7 @@ From here you will need to also clone the `json-server` in a separate folder loc
 
 ## Installing what you will need to run both the server & the web application
 
-After you clone both the web application and the server you will need to install:
-
-- `Node.js`
-
-- `NPM`
-
-Install Node.js and NPM to your local machine by visiting the website provided:
+After you clone both the web application and the server you will need to install Node.js and NPM to your local machine. Visit the website provided and install:
 
 [Node.js & NPM link here](https://nodejs.org)
 
