@@ -14,8 +14,9 @@ After installing git:
 
 Please find a specific folder you would like to place the web application and run these following commands within the CMD:
 
-$ git init
-$ git clone (https://github.com/JCoulter85/jc_web.git)
+- $ git init
+
+- $ git clone (https://github.com/JCoulter85/jc_web.git)
 
 This will pull all the files needed for the web application.
 
@@ -32,19 +33,25 @@ After you clone both the web application and the server you will need to install
 
 Install Node.js and NPM to your local machine by visiting the website provided:
 
-- https://nodejs.org
+(https://nodejs.org)
 
 You can check that node.js & npm have been installed by checking their versions by running these commands in your CMD:
 
-$ node -v
-$ npm -v
+- $ `node -v`
+
+- $ `npm -v`
 
 After node.js & npm are installed on your machine you will need to run these commands in your CMD:
-$ `Angular CLI v6.2.1`
-$ `Angular Materials v6.4.7`
-$ `Angular CDK v6.4.7`
-$ `Angular Animations v6.1.7`
-$ `Hammerjs v2.0.8`
+
+- $ `Angular CLI v6.2.1`
+
+- $ `Angular Materials v6.4.7`
+
+- $ `Angular CDK v6.4.7`
+
+- $ `Angular Animations v6.1.7`
+
+- $ `Hammerjs v2.0.8`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
