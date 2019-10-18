@@ -44,7 +44,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running jc_web
 
-Now that we are ready to run the web application, There are two ways to do so.
+Now that we are ready to run the web application, There are two ways to do so. Option one is for web dev and option two is to view the website through the as is json-server. If you choose to just view the web app please use option 2 as it is much easier.
 
 ### Option 1
 
