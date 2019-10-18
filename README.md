@@ -8,7 +8,7 @@ To get started there are a few things that you will need in order for you to bui
 
 Please go to github.com and install git as well as make your own github account:
 
-`http://github.com/`
+http://github.com/
 
 After installing git:
 
