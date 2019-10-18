@@ -62,7 +62,7 @@ You now can visit the link below to view the web application.
 
 **Option 2**
 
-Visit the `json-server` folder within the JC_Web folder. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server folder, you can run this command:
+Visit the `json-server` folder within the `JC_Web` folder. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server folder, you can run this command:
 
 - $ `json-server --watch db.json -d 2000`
 
