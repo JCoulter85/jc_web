@@ -48,7 +48,7 @@ Now that we are ready to run the web application, There are two ways to do so.
 
 Option 1
 
-This require the `json-server` to be deployed in order for some contect to be loaded. Visit the `json-server` folder within the JC_Web folder in the CMD. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server` folder, you can run this command:
+This require the `json-server` to be deployed in order for some contect to be loaded. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server` folder, you can run this command:
 
 - $ `json-server --watch db.json -d 2000`
 
