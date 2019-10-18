@@ -47,7 +47,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Now that we are ready to run the web application, There are two ways to do so.
 
 Option 1
-Direct your CMD to the `JC_Web` folder. Once within the `JC_Web` folder you can run this command:
+This require the `json-server` to be deployed in order for some contect to be loaded. Direct your CMD to the `JC_Web` folder. Visit the `json-server` folder within the JC_Web folder. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server` folder, you can run this command:
+
+- $ `json-server --watch db.json -d 2000`
+
+After the `json-server` has been deployed, you can now serve the web app. Open another CMD terminal and open the `JC_Web` folder. Once within the `JC_Web` folder you can run this command:
 
 - $ `ng serve`
 
