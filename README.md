@@ -14,15 +14,15 @@ After installing git:
 
 Please find a specific folder you would like to place the web application and run these following commands within the CMD:
 
-- $ git init
+- $ `git init`
 
-- $ git clone (https://github.com/JCoulter85/jc_web.git)
+- $ `git clone (https://github.com/JCoulter85/jc_web.git)`
 
 This will pull all the files needed for the web application.
 
 From here you will need to also clone the json-server in a separate folder location. Here is the command to clone the server:
 
-git clone (https://github.com/JCoulter85/jc_web_server.git)
+`git clone (https://github.com/JCoulter85/jc_web_server.git)`
 
 ## Installing what you will need to run both the server & the web application
 
