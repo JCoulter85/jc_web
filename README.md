@@ -1,6 +1,4 @@
-# James Coulter
-
-## Welcome to the jc_web README
+# Welcome to the jc_web README
 
 Welcome to my personal website.
 
