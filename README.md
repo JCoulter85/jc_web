@@ -56,19 +56,33 @@ After node.js & npm are installed on your machine you will need to run these com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
-## Serve jc-web
+## Running JC-Web
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Running web application:
+
+- $ `ng serve`
+
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Deploy the server
 
 - Locate and visit the servers location on your local machine in your CMD
 
-- Run `json-server --watch db.json -d 2000` to activate the server and necessary contecnt for the web application.
+- Run:
+
+- $ `json-server --watch db.json -d 2000`
+
+The content within the server has necessary contecnt for the web application.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run:
+
+- $ `ng generate component component-name`
+
+This will generate a new component. You can also use
+
+- $ `ng generate directive|pipe|service|class|guard|interface|enum|module`
 
 ## Build
 
