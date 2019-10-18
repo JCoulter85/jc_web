@@ -4,7 +4,7 @@ Welcome to my personal website.
 
 To get started there are a few things that you will need in order for you to build the web app.
 
-Please go to http://github.com and install git as well as make your own github account:
+Please go to <http://github.com> and install git as well as make your own github account:
 
 [Github link here](http://github.com/)
 
@@ -15,10 +15,6 @@ Please find a specific folder you would like to place the web application and ru
 - $ `git clone (https://github.com/JCoulter85/jc_web.git)`
 
 This will pull all the files needed for the web application.
-
-From here you will need to also clone the `json-server` in a separate folder location. Here is the command to clone the server:
-
-- $ `git clone (https://github.com/JCoulter85/jc_web_server.git)`
 
 ## Installing what you will need to run both the server & the web application
 
@@ -48,21 +44,29 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running jc_web
 
-In your CMD please visit the `JC_Web` folder and run this command in the CMD:
+Now that we are ready to run the web application, There are two ways to do so.
+
+Option 1
+Direct your CMD to the `JC_Web` folder. Once within the `JC_Web` folder you can run this command:
 
 - $ `ng serve`
 
-Navigate to http://localhost:4200/ The app will automatically reload if you change any of the source files.
+You now can visit the link below to view the web application.
 
-## Running json-server
+<http://localhost:4200>
 
-- Open a new CMD window & visit `json-server` folder (which should be in a differnet location then the `JC_Web` folder) on your local machine in your CMD:
-
-Run:
+Option 2
+ visit the `json-server` folder within the JC_Web folder. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server folder, you can run this command:
 
 - $ `json-server --watch db.json -d 2000`
 
-The content within the server has necessary contecnt for the web application.
+You can now view the web application via the link below:
+
+- <http://localhost:3000/>
+
+## Optional Commands
+
+Below this point are a list of commands that are unnecessary to view the web application but are available if you choose to use them.
 
 ## Code scaffolding
 
