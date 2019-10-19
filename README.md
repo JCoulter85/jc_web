@@ -76,7 +76,7 @@ If you edit the web app you will also have to update the `json-server` for deplo
 
 - $ `ng build --prod`
 
-This will create the information in the `JC_Web\dist` folder that will need to copy and pasted into the `json-server\public` folder. This will update all the old content and bring the web app up to date. *Kind of important so please do not forget to do so.*
+This will create the information in the `JC_Web\dist` folder that will need to copy and pasted into the `json-server\public` folder (All of the content _within the `JC_web\dist` folder_. There should be a total of 17 files). This will update all the old content and bring the web app up to date. *Kind of important so please do not forget to do so.*
 
 ## Optional Commands
 
