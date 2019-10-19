@@ -70,6 +70,14 @@ You can now view the web application via the link below:
 
 - <http://localhost:3000/>
 
+## Updating json-server content
+
+If you edit the web app you will also have to update the `json-server` for deployment. Once you are ready to update the server you will need to run this command in the JC_Web folder in the CMD:
+
+- $ `ng build --prod`
+
+This will create the information in the `JC_Web\dist` folder that will need to copy and pasted into the `json-server\public` folder. This will update all the old content and bring the web app up to date. *Kind of important so please do not forget to do so.*
+
 ## Optional Commands
 
 Below this point are a list of commands that are unnecessary to view the web application but are available if you choose to use them.
