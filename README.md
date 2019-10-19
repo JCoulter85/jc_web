@@ -14,6 +14,10 @@ After installing git please find a specific folder you would like to place the w
 
 This will pull all the files needed for the web application.
 
+If you are new to Git do not worry!!! Here is a fantastic cheat sheet with tons of commands and what they do!!!
+
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ## Installing what you will need to run both the server & the web application
 
 After you clone both the web application and the server you will need to install `Node.js` and `NPM` to your local machine. Visit the website provided and install:
