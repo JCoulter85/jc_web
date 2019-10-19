@@ -12,7 +12,7 @@ After installing git:
 
 Please find a specific folder you would like to place the web application and run these following commands within the CMD:
 
-- $ `git clone (https://github.com/JCoulter85/jc_web.git)`
+- $ `git clone https://github.com/JCoulter85/jc_web.git`
 
 This will pull all the files needed for the web application.
 
@@ -44,7 +44,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running jc_web
 
-Now that we are ready to run the web application, There are two ways to do so. Option one is for web dev and option two is to view the website through the as is json-server. If you choose to just view the web app please use option 2 as it is much easier.
+Now that we are ready to run the web application, There are two ways to do so. Option one is for web dev and option two is to view the website through the as is json-server. If you want to just view the web app please use option 2 as it is much easier.
 
 ### Option 1
 
@@ -62,7 +62,7 @@ You now can visit the link below to view the web application.
 
 ### Option 2
 
-Visit the `json-server` folder within the `JC_Web` folder. In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server folder, you can run this command:
+In the CMD direct yourself to the `json-server` folder within the `JC_Web` folder. Once in the `json-server` folder, run this command:
 
 - $ `json-server --watch db.json -d 2000`
 
