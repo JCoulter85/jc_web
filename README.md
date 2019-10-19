@@ -74,7 +74,7 @@ You can now view the web application via the link below:
 
 Below this point are a list of commands that are unnecessary to view the web application but are available if you choose to use them.
 
-## Code scaffolding
+### Code scaffolding
 
 Run:
 
@@ -84,7 +84,7 @@ This will generate a new component. You can also use:
 
 - $ `ng generate directive|pipe|service|class|guard|interface|enum|module`
 
-## Build
+### Build
 
 Run:
 
@@ -92,7 +92,7 @@ Run:
 
 This will build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running end-to-end tests
+### Running end-to-end tests
 
 Run:
 
@@ -100,7 +100,7 @@ Run:
 
 This will execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+### Further help
 
 To get more help on the Angular CLI use:
 
