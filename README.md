@@ -8,7 +8,7 @@ Please go to <https://git-scm.com/downloads> and install git as well as visit th
 
 [Github link here](http://github.com/)
 
-After installing git please find a specific folder you would like to place the web application. Run these following commands in your CMD:
+After installing git please find a specific folder you would like to place the web application. Run this  command in your CMD:
 
 - $ `git clone https://github.com/JCoulter85/jc_web.git`
 
