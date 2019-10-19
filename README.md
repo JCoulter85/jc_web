@@ -72,7 +72,7 @@ You can now view the web application via the link below:
 
 ## Updating json-server content
 
-If you edit the web app you will also have to update the `json-server` for deployment. Once you are ready to update the server you will need to run this command in the JC_Web folder in the CMD:
+If you edit the web app you will also have to update the `json-server` for deployment. Once you are ready to update the server you will need to run this command in the `JC_Web` folder in the CMD:
 
 - $ `ng build --prod`
 
