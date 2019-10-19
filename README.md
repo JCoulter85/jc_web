@@ -4,7 +4,7 @@ Welcome to my personal website.
 
 To get started there are a few things that you will need in order for you to build the web app.
 
-Please go to <http://github.com> and install git as well as make your own github account:
+Please go to <https://git-scm.com/downloads> and install git as well as visit the link below to create your own github account:
 
 [Github link here](http://github.com/)
 
