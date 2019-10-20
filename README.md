@@ -32,6 +32,8 @@ You can check that `node.js` & `npm` have been installed by checking their versi
 
 Next will will have to install Angular & all of the Agular items. Please run these commands in your CMD:
 
+- $ `npm init`
+
 - $ `npm install Angular CLI v6.2.1`
 
 - $ `npm install Angular Materials v6.4.7`
@@ -45,8 +47,6 @@ Next will will have to install Angular & all of the Agular items. Please run the
 - $ `npm install Hammerjs v2.0.8`
 
 - $ `npm install lite-server --save-dev`
-
-- $ `npm init`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
