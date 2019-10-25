@@ -130,13 +130,12 @@ export const DISHES: Dish[] = [
   },
   {
     id: "3",
-    name: "4th Example",
+    name: "Python Camera Stream via WiFi",
     image: "/assets/images/thumb-icon.png",
-    category: "dessert",
+    category: "Personal Projectg",
     featured: false,
-    label: "",
-    description:
-      "I will have to place a 4th work example within this card. Think of something and it will work awesomely...",
+    label: "New",
+    description: "With this project you are able to stream a Raspberry Pi cammera via Python through WiFi",
     comments: [
       {
         rating: 5,
@@ -174,7 +173,7 @@ export const DISHES: Dish[] = [
     id: "4",
     name: "5th Example",
     image: "/assets/images/thumb-icon.png",
-    category: "dessert",
+    category: "",
     featured: false,
     label: "",
     description:

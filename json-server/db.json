@@ -125,12 +125,12 @@
     },
     {
       "id": "3",
-      "name": "Raspberry Pi Entertainment Center",
+      "name": "Python Camera Stream via WiFi",
       "image": "images/rp-icon.png",
       "category": "Personal Project",
       "featured": false,
       "label": "New",
-      "description": "I will have to place a 4th work example within this card. Think of something and it will work awesomely...",
+      "description": "With this project you are able to stream a Raspberry Pi cammera via Python through WiFi",
       "comments": [
         {
           "rating": 5,
